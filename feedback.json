@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is the cost of the premium package?",
+    "context": "## School Packages:\n- Half-day workshop: ₹8,000\n- Full-day event: ₹15,000\n- Annual school partnership: ₹60,000/year\n\nContact us for custom quotes based on your needs.",
+    "answer": " The context does not provide information about a premium package. The options available are a half-day workshop for ₹8,000, a full-day event for ₹15,000, and an annual school partnership for ₹60,000 per year. If you need more details about a potential premium package, I recommend reaching out to the provider for more information."
+  },
+  {
+    "question": "What is the cost of the premium package?",
+    "context": "## School Packages:\n- Half-day workshop: ₹8,000\n- Full-day event: ₹15,000\n- Annual school partnership: ₹60,000/year\n\nContact us for custom quotes based on your needs.",
+    "answer": " I don't have enough information to provide an accurate answer as the text only provides details for three school packages: a half-day workshop, a full-day event, and an annual school partnership. It does not mention any premium package. For a custom quote, I would recommend contacting the company using the information provided in the context."
+  },
+  {
+    "question": "What is the cost of the premium package?",
+    "context": "## School Packages:\n- Half-day workshop: ₹8,000\n- Full-day event: ₹15,000\n- Annual school partnership: ₹60,000/year\n\nContact us for custom quotes based on your needs.",
+    "answer": " The provided context does not include a \"premium package\" and the only packages mentioned are the half-day workshop, full-day event, and annual school partnership. Therefore, I cannot provide the cost of a \"premium package\" as it is not mentioned in the context."
+  }
+]{
+  "question": "What is the cost of the premium package?",
+  "context": "## School Packages:\n- Half-day workshop: \u20b98,000\n- Full-day event: \u20b915,000\n- Annual school partnership: \u20b960,000/year\n\nContact us for custom quotes based on your needs.\n## School Packages:\n- Half-day workshop: \u20b98,000\n- Full-day event: \u20b915,000\n- Annual school partnership: \u20b960,000/year\n\nContact us for custom quotes based on your needs.\n## School Packages:\n- Half-day workshop: \u20b98,000\n- Full-day event: \u20b915,000\n- Annual school partnership: \u20b960,000/year\n\nContact us for custom quotes based on your needs.",
+  "answer": " The provided context does not include a \"premium package\" option in the list of school packages. The options are a Half-day workshop for \u20b98,000, a Full-day event for \u20b915,000, and an Annual school partnership for \u20b960,000 per year. For a custom quote, consider contacting the source as suggested in the context."
+},
+{
+  "question": "What programs are available for schools?",
+  "context": "# School Partnerships\n\nOur partnerships with schools include tailored sessions and career fairs.\n\n## Available services:\n- In-school career workshops\n- Parent-student counseling days\n- Career discovery games and assessments\n- Training for school staff on career mentoring\n\n---\n\n# Pricing\n\n## Individual Programs:\n- Career Counseling: \u00e2\u201a\u00b91,500/hour\n- Skill Workshops: \u00e2\u201a\u00b95,000/session\n- Premium Package (5 sessions): \u00e2\u201a\u00b96,500\n# School Partnerships\n\nOur partnerships with schools include tailored sessions and career fairs.\n\n## Available services:\n- In-school career workshops\n- Parent-student counseling days\n- Career discovery games and assessments\n- Training for school staff on career mentoring\n\n---\n\n# Pricing\n\n## Individual Programs:\n- Career Counseling: \u00e2\u201a\u00b91,500/hour\n- Skill Workshops: \u00e2\u201a\u00b95,000/session\n- Premium Package (5 sessions): \u00e2\u201a\u00b96,500\n# School Partnerships\n\nOur partnerships with schools include tailored sessions and career fairs.\n\n## Available services:\n- In-school career workshops\n- Parent-student counseling days\n- Career discovery games and assessments\n- Training for school staff on career mentoring\n\n---\n\n# Pricing\n\n## Individual Programs:\n- Career Counseling: \u00e2\u201a\u00b91,500/hour\n- Skill Workshops: \u00e2\u201a\u00b95,000/session\n- Premium Package (5 sessions): \u00e2\u201a\u00b96,500",
+  "answer": " For school partnerships, the available services include in-school career workshops, parent-student counseling days, career discovery games and assessments, and training for school staff on career mentoring."
+},
